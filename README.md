@@ -6,4 +6,4 @@ temperature_data - is a clean file from temp_data, where is only min and max tem
 
 hw3_grxh8f*.ipynb - the homework
 
-I used 87 days to predicting the future, but we can modify it. We have a trd variable (training days) so we can set how many days want we to see.
+I used 87 days to predicting the future, but we can modify it. We have a 'trd' variable (training days) so we can set how many days want we to see. We can maybe 100 or 180.
